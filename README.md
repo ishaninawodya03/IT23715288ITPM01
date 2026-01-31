@@ -142,6 +142,6 @@ This project is licensed under the ISC License.
 - **GitHub**: [https://github.com/ishaninawodya03/IT23715288ITPM01](https://github.com/ishaninawodya03/IT23715288ITPM01)
 - **Issues**: [https://github.com/ishaninawodya03/IT23715288ITPM01/issues](https://github.com/ishaninawodya03/IT23715288ITPM01/issues)
 
-## Contact
+## Author
 
-For questions or support, please open an issue on the GitHub repository.
+W.S.I.Nawodya (IT23715288)

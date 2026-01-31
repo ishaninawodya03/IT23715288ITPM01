@@ -1,0 +1,23 @@
+{
+  "name": "it23715288itpm01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaninawodya03/IT23715288ITPM01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ishaninawodya03/IT23715288ITPM01/issues"
+  },
+  "homepage": "https://github.com/ishaninawodya03/IT23715288ITPM01#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}
